@@ -1,0 +1,126 @@
+body{
+    width: 1350px;
+    height: 900px;
+    background-color: rgb(176, 137, 19);
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 70px;
+    background-color: rgb(3, 16, 17);
+    padding-left: 0px;
+    margin-top: -5px;
+}
+
+ul li{
+    color: darkorange;
+}
+ul li a{
+    color: orange;
+}
+ul li a :hover{
+    background-color: aliceblue;
+}
+
+.logo{
+    margin-left: 0;
+}
+
+li{
+    text-align: center;
+    margin: 30px;   
+}
+h3{
+text-align: center;
+}
+.col-md-4{
+padding-left: 30px;
+margin: 5px;
+color: blue;
+
+}
+.col-md-6 .srch{
+    padding-top: 20px;
+    margin: 40px;
+    background-color: aqua;
+}
+
+h1{
+    margin-left: 460px;
+    color: darkorange;
+    margin-top: 10px;
+}
+
+.b1{
+    float: left;
+    margin-left: 10px;
+}
+.b2{
+    float: left;
+    margin-left: 30px;
+}
+.b3{
+    float: left;
+    margin-left: 30px;
+}
+.col-sm-6{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    
+}
+
+.btn{
+    margin-left: 600px;
+    background-color: rgb(8, 7, 6);
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: darkorange;
+    margin-bottom: 18px;
+}
+.col-sm-9{
+    margin-top: 30px;
+    margin-left: -90px;
+}
+.col-md-3{
+    background-color: blue;
+    margin-top: 40px;
+}
+h1{
+    margin-bottom: 10px;
+}
+.col-md-6{
+    padding-top: 20px;
+}
+.col-md-3 mx-auto mb-4{
+    float: left;
+}
+.containerall{
+    width: 1359px;
+    height: 290px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 20px;
+}
+.containerone{
+    display: flex;
+    
+}
+.containerone nav ul{
+    display: block;
+    float: left;
+    margin-left: 85x;
+    background-color: rgb(12, 12, 17);
+    color: aliceblue;
+    margin-top: 2px;
+
+}
+.containerone ul li a:hover{
+    color: darkorange;
+}
+.containerone h4{
+    color: blue;
+    
+}
